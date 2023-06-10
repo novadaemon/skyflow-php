@@ -1,0 +1,22 @@
+{
+    "name": "novadaemon/skyflow-php",
+    "description": "This PHP SDK is designed to help developers easily implement Skyflow into their php backend.",
+    "type": "library",
+    "require": {
+        "php": ">=8.1",
+        "guzzlehttp/guzzle": "^7.5",
+        "firebase/php-jwt": "^6.4"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Novadaemon\\Skyflow\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jesús García",
+            "email": "novadaemon@gmail.com"
+        }
+    ]
+}

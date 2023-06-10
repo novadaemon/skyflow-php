@@ -1,0 +1,2 @@
+- Implement Record batch operation functionality
+- Implement List audit event funtionality
