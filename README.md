@@ -1,8 +1,9 @@
 # Skyflow-PHP
 
----
 ## Description
 This PHP SDK is designed to help developers easily implement Skyflow into their php backend.
+
+![Cover](https://banners.beyondco.de/Skyflow%20PHP%20SDK.png?theme=light&packageManager=composer+require&packageName=novadaemon%2Fskyflow-php&pattern=circuitBoard&style=style_1&description=The+PHP+SDK+for+Skyflow+vault+service&md=1&showWatermark=1&fontSize=100px&images=https%3A%2F%2Fwww.php.net%2Fimages%2Flogos%2Fnew-php-logo.svg)
 
 ## Table of Contents
 - [Features](#features)
@@ -47,7 +48,9 @@ Invoking connections to call downstream third party APIs without directly handli
 
  Type in your terminal:
 
-`composer require novadaemon/skyflow-php`
+```bash
+composer require novadaemon/skyflow-php
+```
 
 ## Examples
 
